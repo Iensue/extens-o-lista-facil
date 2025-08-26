@@ -1,0 +1,54 @@
+/* Arquivo: src/components/TeamMember.css */
+
+.team-member {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 200px;
+  opacity: 0;
+  animation: fadeInMember 0.5s forwards;
+}
+
+.member-photo {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  border: 4px solid #28a745; /* Borda verde vibrante */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.team-member h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.2rem;
+  color: #212529; /* Cor do nome: Preto suave */
+}
+
+.member-course {
+  font-size: 1rem;
+  color: #555555; /* Cor do curso: Cinza médio */
+  margin-bottom: 1rem;
+}
+
+.github-link {
+  display: inline-block;
+  text-decoration: none;
+  color: #FFFFFF; /* Texto branco no botão */
+  background-color: #28a745; /* Fundo verde vibrante */
+  padding: 0.5rem 1.5rem;
+  border-radius: 25px;
+  font-weight: bold;
+  transition: transform 0.2s ease;
+}
+
+.github-link:hover {
+  transform: scale(1.05);
+}
+
+@keyframes fadeInMember {
+  to {
+    opacity: 1;
+  }
+}

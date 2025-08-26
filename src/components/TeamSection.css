@@ -1,0 +1,27 @@
+/* Arquivo: src/components/TeamSection.css */
+
+.members-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem 3rem; /* Espaçamento entre os membros */
+  margin-top: 3rem;
+  width: 100%;
+}
+
+/* Reutilizando estilos para consistência */
+.subtitle {
+  font-size: clamp(1rem, 4vw, 1.5rem);
+  font-weight: 400;
+  color: #555555; /* Cor do subtítulo: Cinza médio */
+  margin-bottom: 1rem;
+}
+
+.title {
+  font-size: clamp(2rem, 7vw, 5.5rem);
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: -0.05em;
+  line-height: 0.9;
+  color: #1c5c34; /* Cor do título: Verde escuro */
+}
