@@ -86,8 +86,8 @@ function App() {
         <Section id="extensao" subtitle="Formação Acadêmica" title="Reflexão sobre a extensão curricular">
           <p className="prose-text">
             A extensão curricular é uma oportunidade de colocar em prática o que aprendemos na sala de aula, transformando o conhecimento em algo útil para a sociedade. Para mim, ela representa justamente isso: usar a tecnologia como ferramenta para facilitar a vida das pessoas.
-O projeto List Easy nasceu com esse objetivo. Assim como outras ferramentas que usamos no dia a dia, ele busca simplificar tarefas que podem parecer pequenas, mas que consomem tempo e dinheiro. Desenvolver o aplicativo me permitiu aplicar conteúdos da minha formação, como lógica, análise e organização de dados, mas também me fez enxergar a importância de criar soluções acessíveis e práticas.
-Na minha visão, o valor da extensão está exatamente nesse ponto: aproximar teoria e prática de uma forma que tenha impacto real. Com o List Easy, percebi que não se trata apenas de programar ou criar funcionalidades, mas de pensar em como a tecnologia pode melhorar a rotina das pessoas, trazendo mais praticidade e economia.
+O projeto Lista Facil nasceu com esse objetivo. Assim como outras ferramentas que usamos no dia a dia, ele busca simplificar tarefas que podem parecer pequenas, mas que consomem tempo e dinheiro. Desenvolver o aplicativo me permitiu aplicar conteúdos da minha formação, como lógica, análise e organização de dados, mas também me fez enxergar a importância de criar soluções acessíveis e práticas.
+Na minha visão, o valor da extensão está exatamente nesse ponto: aproximar teoria e prática de uma forma que tenha impacto real. Com o Lista Facil, percebi que não se trata apenas de programar ou criar funcionalidades, mas de pensar em como a tecnologia pode melhorar a rotina das pessoas, trazendo mais praticidade e economia.
 
           </p>
         </Section>
